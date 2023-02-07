@@ -1,2 +1,2 @@
 # MISS
-Multi camera based Interlligent Safeguard System
+Multi camera based Intelligent Safeguard System
